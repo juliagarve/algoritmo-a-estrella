@@ -1,4 +1,4 @@
-# Práctica de Sistemas de Búsqueda
+# Algoritmo A* que optimiza el consumo de rutas
 
 Este proyecto de Java fue desarrollado como parte de la práctica de sistemas de búsqueda del curso "FUNDAMENTOS DE SISTEMAS INTELIGENTES" del cuarto curso del grado en Ingeniería Informática.
 
@@ -19,24 +19,3 @@ El objetivo del proyecto es utilizar un algoritmo A* para encontrar las secuenci
 - El drone dispone de una carga útil de 5 medicinas.
 - Su tiempo de carga es de 2 horas para una capacidad de 100 unidades de carga.
 
-## Contenido del Repositorio
-
-- **src/**: Contiene el código fuente del proyecto en Java.
-- **README.md**: Este archivo que proporciona información sobre el proyecto.
-- **[Otros archivos y directorios relevantes]**: Puedes agregar cualquier otro archivo o directorio relevante para el proyecto aquí.
-
-## Instrucciones de Uso
-
-[Proporciona instrucciones detalladas sobre cómo configurar y ejecutar el proyecto, incluyendo cualquier requisito previo y parámetros de entrada necesarios.]
-
-## Contribución
-
-Si deseas contribuir al proyecto, siéntete libre de enviar pull requests o reportar problemas en la sección de issues.
-
-## Autor
-
-[Inserta tu nombre y cualquier otra información de contacto relevante.]
-
-## Licencia
-
-[Inserta la licencia bajo la cual se distribuye el proyecto, si es aplicable.]
